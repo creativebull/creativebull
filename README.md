@@ -172,4 +172,7 @@
   </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creativebull&hide=TeX&layout=compact)
+| ![Github stats](https://github-readme-stats.vercel.app/api?username=creativebull&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=creativebull&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=creativebull&include_all_commits=true&count_private=true&theme=tokyonight)
+<br>
