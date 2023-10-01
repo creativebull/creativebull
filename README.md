@@ -1,7 +1,7 @@
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://docs.python.org/3/tutorial/index.html" target="_blank"> 
-    <img src="https://img.shields.io/badge/python-8A2BE2" alt="Python" />
+    <img src="https://img.shields.io/badge/python-8A2BE2?style=for-the-badge&logo=python" alt="Python" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
